@@ -193,3 +193,27 @@
 | *
 |  width: /* -> 0px */ calc(1em 1px + =) !important
 #reset
+
+#data
+@media all{* { width: calc(1px *
+#errors
+#expected
+| @media 3ff
+|  *
+#reset
+
+#data
+@media all{* { width: calc(1px +
+#errors
+#expected
+| @media 3ff
+|  *
+#reset
+
+#data
+@media all{* { width: calc((1px +
+#errors
+#expected
+| @media 3ff
+|  *
+#reset
